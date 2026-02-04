@@ -21,7 +21,7 @@ Five characters fight in a gladiator-style arena. Each character belongs to a di
 rpg-gladiator-game/
 │
 ├── index.html      # Main HTML interface
-├── game.js         # Game logic (characters, classes, turns)
+├── index.js         # Game logic (characters, classes, turns)
 └── README.md       # Project documentation
 ```
 
