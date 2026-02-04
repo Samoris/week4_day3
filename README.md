@@ -17,11 +17,14 @@ Five characters fight in a gladiator-style arena. Each character belongs to a di
 
 ## 🗂 Project Structure
 
-rpg-game/
+```
+rpg-gladiator-game/
 │
-├── index.html # Game interface
-├── index.js # All game logic (characters + system)
-└── README.md
+├── index.html      # Main HTML interface
+├── game.js         # Game logic (characters, classes, turns)
+└── README.md       # Project documentation
+```
+
 
 
 ---
